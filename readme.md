@@ -1,4 +1,4 @@
-# Lab 4 - Terraform
+# Terraform
 1. Install Terraform
 ![install tap & terraform](images/1.png)
 2. Verify that it is installed
