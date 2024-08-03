@@ -1,4 +1,4 @@
-# Terraform Explaination
+# Terraform Explanation
 1. Install Terraform
 ![install tap & terraform](images/1.png)
 2. Verify that it is installed
