@@ -8,7 +8,7 @@
 4. terraform apply
 ![apply terraform](images/5.png)
 ![apply terraform](images/4.png)
-5. verify that in docker 
+5. verify that in the docker 
 ![docker verify](images/6.png)
 6. check that it opened the port
 ![localhost verify](images/9.png)
@@ -21,7 +21,7 @@
 ![apply ](images/12.png)
 10. terraform destroy
 ![destory](images/13.png)
-11. Created resource with dependencies
+11. Created resources with dependencies 
 ![dependencies ](images/14.png)
 ![dependencies ](images/15.png)
 ![dependencies ](images/16.png)
